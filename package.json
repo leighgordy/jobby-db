@@ -1,0 +1,23 @@
+{
+  "name": "jobby-db",
+  "version": "1.0.0",
+  "description": "Fake database used by various jobby projects",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leighgordy/jobby-db.git"
+  },
+  "author": "leighgordy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leighgordy/jobby-db/issues"
+  },
+  "homepage": "https://github.com/leighgordy/jobby-db#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
